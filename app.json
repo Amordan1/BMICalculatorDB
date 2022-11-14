@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "with-sqlite",
-    "slug": "with-sqlite",
+    "name": "BMICalculatorDB",
+    "slug": "BMICalculatorDB-rm634127",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/weights.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/weights.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#34495e"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -28,6 +28,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
